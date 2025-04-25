@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ugadiProject/static/css/main.007a9de2.css",
+    "main.js": "/ugadiProject/static/js/main.09085838.js",
+    "static/js/453.94dfe038.chunk.js": "/ugadiProject/static/js/453.94dfe038.chunk.js",
+    "index.html": "/ugadiProject/index.html",
+    "main.007a9de2.css.map": "/ugadiProject/static/css/main.007a9de2.css.map",
+    "main.09085838.js.map": "/ugadiProject/static/js/main.09085838.js.map",
+    "453.94dfe038.chunk.js.map": "/ugadiProject/static/js/453.94dfe038.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007a9de2.css",
+    "static/js/main.09085838.js"
+  ]
+}
